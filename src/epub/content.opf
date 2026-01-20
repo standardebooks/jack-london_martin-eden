@@ -61,7 +61,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1056</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/101866474</dc:source>
-		<meta property="se:word-count">141285</meta>
+		<meta property="se:word-count">139320</meta>
 		<meta property="se:reading-ease.flesch">72.66</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Martin_Eden</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jack-london_martin-eden</meta>
